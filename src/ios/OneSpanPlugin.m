@@ -6,12 +6,12 @@
   // Member variables go here.
 }
 
-- (void)coolMethod:(CDVInvokedUrlCommand*)command;
+- (void)OSActivate:(CDVInvokedUrlCommand*)command;
 @end
 
 @implementation OneSpanPlugin
 
-- (void)coolMethod:(CDVInvokedUrlCommand*)command
+- (void)OSActivate:(CDVInvokedUrlCommand*)command
 {
     CDVPluginResult* pluginResult = nil;
     NSString* echo = [command.arguments objectAtIndex:0];
