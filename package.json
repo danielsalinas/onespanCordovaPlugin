@@ -1,6 +1,6 @@
 {
   "name": "onespanplugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "plugin to comunicate onespan authetication methods with ionic application",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "Ionic"
   ],
   "author": "Daniel Salinas",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsalinas/onespanCordovaPlugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielsalinas/onespanCordovaPlugin/issues"
+  },
+  "homepage": "https://github.com/danielsalinas/onespanCordovaPlugin#readme"
 }

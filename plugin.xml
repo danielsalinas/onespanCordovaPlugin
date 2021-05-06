@@ -2,7 +2,7 @@
 <plugin id="cordova-plugin-OneSpanPlugin" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>OneSpanPlugin</name>
     <js-module name="OneSpanPlugin" src="www/OneSpanPlugin.js">
-        <clobbers target="OneSpanPlugin" />
+        <clobbers target="cordova.plugin.OneSpanPlugin" />
     </js-module><platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="OneSpanPlugin">
