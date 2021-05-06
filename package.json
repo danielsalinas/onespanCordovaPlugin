@@ -1,0 +1,16 @@
+{
+  "name": "onespanplugin",
+  "version": "1.0.0",
+  "description": "plugin to comunicate onespan authetication methods with ionic application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OneSpan",
+    "Cordova",
+    "Ionic"
+  ],
+  "author": "Daniel Salinas",
+  "license": "ISC"
+}
