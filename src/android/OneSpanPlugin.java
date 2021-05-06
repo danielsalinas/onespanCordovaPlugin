@@ -1,4 +1,4 @@
-package cordova-plugin-OneSpanPlugin;
+package cordova.plugin.OneSpanPlugin;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
